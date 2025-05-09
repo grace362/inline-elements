@@ -1,0 +1,13 @@
+li{
+    display: inline;
+}
+img{
+    display: block;
+}
+.box{
+    background-color: #f8bcbc;
+    padding: 20px;
+    border: 1px solid #ddd;
+    width: 25%;
+    display: inline-block;
+}
